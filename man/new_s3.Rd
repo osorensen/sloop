@@ -20,7 +20,7 @@ new_s3_chr(x, ..., class)
 new_s3_lst(x, ..., class)
 }
 \arguments{
-\item{x}{A vector. An error will be throw if the type does not
+\item{x}{A vector. An error will be thrown if the type does not
 match the function suffix.}
 
 \item{...}{Name-value pairs which form the fields (attributes) of

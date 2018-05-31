@@ -5,7 +5,7 @@
 #' provide a constructor function that wraps one of these functions,
 #' checking the type of all attributes.
 #'
-#' @param x A vector. An error will be throw if the type does not
+#' @param x A vector. An error will be thrown if the type does not
 #'   match the function suffix.
 #' @param ... Name-value pairs which form the fields (attributes) of
 #'   the class
